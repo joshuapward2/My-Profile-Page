@@ -5,16 +5,17 @@ function Project() {
     return (
   <div>
   <h1>Project</h1>
-  {projects.map(projects => {
-    return
-    (<div>
-      <p>{
-        projects.id}</p>
+  {projects.map(project => (
+   
+    <div>
+      <p> {project.id}</p>
+      <p> {project.title}</p>
 
-      </div>  
-    )
 
-  })}
+       </div>  
+     
+
+  ))}
   </div>
   
     )
