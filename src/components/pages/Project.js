@@ -7,9 +7,10 @@ function Project() {
   <h1>Project</h1>
   {projects.map(project => (
    
-    <div>
-      <p> {project.id}</p>
+   <div class="img-box">
+      <p> {project.image}</p>
       <p> {project.title}</p>
+      <a href={project.Deployedlink}></a>
 
 
        </div>  

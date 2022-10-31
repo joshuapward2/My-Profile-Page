@@ -39,3 +39,13 @@
     transform: rotate(360deg);
   }
 }
+
+
+.img-box {
+  display: flex;
+  flex: 1 70%;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  border-left: 1px dashed var(--primary-color);
+  padding-left: 60px;
+}
