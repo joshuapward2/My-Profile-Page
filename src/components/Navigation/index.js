@@ -1,5 +1,5 @@
 import React from 'react';
-import BootStrap from 'bootstrap'
+import './style.css'
 
 
 // Using object destructuring i assigned them to their own variable names

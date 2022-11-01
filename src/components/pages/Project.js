@@ -1,6 +1,7 @@
 import React from "react";
 import projects from './projects.json'
-import Bootstrap from 'react-bootstrap'
+// import '../../assets/cover/images'
+
 
 function Project() {
     return (
@@ -12,11 +13,11 @@ function Project() {
    <div className="container">
     <div class="row">
         <div class="col-12">
-            <div class="card"></div>
-      <p> {project.image}</p>
+            <div class="card">
       <p> {project.title}</p>
-      {/* <a href="{project.Deployedlink}"></a> */}
-
+      <img src={project.image} alt="project"/>
+      <a href={project.Deployedlink}>Link</a> 
+      </div>
        </div> 
         </div>
           </div> 
