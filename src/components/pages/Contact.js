@@ -3,9 +3,9 @@ import React from 'react';
 export default function Contact() {
   return (
     <div>
-      <h1>Contact Page</h1>
+      <h1 className="ContactHeader">Contact Me</h1>
       <div className="Contactcontainer">
-  <h1>FormSubmit Demo</h1>
+  
   <form target="_blank" action="https://formsubmit.co/29e81c2cda3b2a5fcdca37a5110374ec" method="POST">
     <div className="form-group">
       <div className="form-row">

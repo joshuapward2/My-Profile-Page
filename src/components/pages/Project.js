@@ -11,9 +11,9 @@ function Project() {
    
   //  <div className="img-box">
    <div className="container">
-    <div class="row">
-        <div class="col-12">
-            <div class="card">
+    <div className="row">
+        <div className="col-12">
+            <div className="card">
       <p> {project.title}</p>
       <img className="cardImage" src={project.image} alt="project"/>
       <a href={project.Deployedlink}>Link</a> 
