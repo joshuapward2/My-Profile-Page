@@ -53,10 +53,15 @@
 .nav {
   text-align: center;
   list-style: none;
-  
+
  
  
 
+}
+
+.cardImage {
+  max-width: 75px;
+  max-height: 75px;
 }
 
 

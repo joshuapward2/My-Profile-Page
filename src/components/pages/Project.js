@@ -1,6 +1,6 @@
 import React from "react";
-import projects from './projects.json'
-// import '../../assets/cover/images'
+import projects from '../../assets/projects.json'
+
 
 
 function Project() {
@@ -15,7 +15,7 @@ function Project() {
         <div class="col-12">
             <div class="card">
       <p> {project.title}</p>
-      <img src={project.image} alt="project"/>
+      <img className="cardImage" src={project.image} alt="project"/>
       <a href={project.Deployedlink}>Link</a> 
       </div>
        </div> 

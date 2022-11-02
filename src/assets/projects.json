@@ -5,7 +5,7 @@
     "title":"A Day In The Smoky Mountains",
     "Deployedlink":"https://zombiewok28.github.io/A-Day-In-The-Smoky-Mountains/",
     "GitHubLink":"https://github.com/joshuapward2/A-Day-In-The-Smoky-Mountains",
-    "image":"../../assets/cover/images/zombie.png"
+    "image":"zombie.png"
     
 },
 {
@@ -14,7 +14,7 @@
     "title":"Between the looking glass",
     "Deployedlink":"https://dry-temple-13792.herokuapp.com/",
     "GitHubLink":"https://github.com/joshuapward2/between-the-looking-glass",
-    "image":"my-portfolio/src/images/dry-temple-13792.herokuapp.com_ (1).png"
+    "image":"zombie.png"
     
 },
 {
@@ -23,7 +23,7 @@
     "title":"Javascript password generator",
     "Deployedlink":"https://joshuapward2.github.io/password-generator-/",
     "GitHubLink":"https://github.com/joshuapward2/password-generator-",
-    "image":"my-portfolio/src/images/joshuapward2.github.io_password-generator-_.png"
+    "image":"zombie.png"
     
 },{
    
@@ -31,7 +31,7 @@
     "title":"MySql Database employee tracker",
     "Deployedlink":"",
     "GitHubLink":"https://github.com/joshuapward2/employee-tracker",
-    "image":""
+    "image":"zombie.png"
     
 },{
    
@@ -39,7 +39,7 @@
     "title":"MongoDB Social media API",
     "Deployedlink":"",
     "GitHubLink":"https://github.com/joshuapward2/social-network-api",
-    "image":""
+    "image":"zombie.png"
     
 },{
    
@@ -47,7 +47,7 @@
     "title":"Object relational mapping employee tracker",
     "Deployedlink":"",
     "GitHubLink":"https://github.com/joshuapward2/employee-tracker",
-    "image":""
+    "image":"zombie.png"
     
 }
 

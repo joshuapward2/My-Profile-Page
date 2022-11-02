@@ -1,0 +1,16 @@
+.footerDiv {
+    display: flex;
+    justify-content: center;
+   
+   
+}
+
+.gitHubLogo{
+    margin: 2px;
+    max-width: 75px;
+}
+
+.LinkedinLogoImg{
+    margin: 2px;
+    max-width: 100px;
+}
