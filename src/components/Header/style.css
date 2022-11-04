@@ -1,3 +1,15 @@
-h1 {
-    margin-top: 50px;
+
+
+.headerDiv {
+    color:black;
 }
+.headerDiv h1 {
+    margin-top: 50px;
+    font-family: fantasy;
+}
+
+/* .iconImage {
+    width: 100px;
+    height: 100px;
+    align-items: center;
+} */

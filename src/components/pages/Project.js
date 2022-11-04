@@ -1,5 +1,5 @@
 import React from "react";
-import projects from '../../assets/projects.json'
+import projects from '../../projects.json'
 
 
 
@@ -11,12 +11,13 @@ function Project() {
    
   //  <div className="img-box">
    <div className="container">
-    <div className="row">
-        <div className="col-12">
+    <div className="row justify-content-center">
+        <div className="col-6">
             <div className="card">
-      <p> {project.title}</p>
-      <img className="cardImage" src={project.image} alt="project"/>
-      <a href={project.Deployedlink}>Link</a> 
+      <p>{project.title}</p>
+      {console.log(`../../assets/${project.image}`)}
+      <img className="cardImage" src={`./images/${project.image}`} alt="project"/>
+      <a href={project.Deployedlink}>Link to site</a> 
       </div>
        </div> 
         </div>

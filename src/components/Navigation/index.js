@@ -5,6 +5,7 @@ import './style.css'
 // Using object destructuring i assigned them to their own variable names
 function Navigation({ currentPage, handlePageChange }) {
   return (
+    <div>
     <ul className="nav nav-tabs">
       <li className="nav-item">
         <a
@@ -48,6 +49,7 @@ function Navigation({ currentPage, handlePageChange }) {
         </a>
       </li>
     </ul>
+    </div>
   );
 }
 

@@ -1,13 +1,13 @@
 import React from "react";
 import './style.css'
-// import Navigation from "../Navigation";
 
-function Header(props) {
+
+function Header() {
 
     return (
-  <div>
+  <div className="headerDiv">
   <h1>Joshua Ward</h1>
- 
+ <img className="iconImage" src="./images/headerLogo.jpeg" alt="me"/>
   </div>
   
     )
