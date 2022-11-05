@@ -14,6 +14,13 @@ export default function Home() {
         bgImageAlt="the dog"
         strength={-200}
     >
+      <br></br>
+      <h4>“A new idea comes suddenly and in a rather intuitive way, but intuition is nothing but the outcome of earlier intellectual experience.” - Albert Einstein</h4>
+      <br></br>
+      <h4>“The art of debugging is figuring out what you really told your program to do rather than what you thought you told it to do.” - Andrew Singer</h4>
+      <br></br>
+      <h4>“User interface is the process of shifting from chaotic complexity to elegant simplicity.” - Akshat Paul</h4>
+
      
       
         <div style={{ height: '400px' }} />
