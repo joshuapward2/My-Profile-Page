@@ -7,11 +7,11 @@ Portfolio page
 Build, design and deploy a react app.  The theme is a page to represent yourself and your portfolio.  Must have a home, navigation, header,and contact pages/components
 
 # technologies 
-Javascript 
-React
-Bootstrap
-Node
-Several Npm's
+Javascript, 
+React,
+Bootstrap,
+Node,
+Several Npm's,
 HTML/CSS
 
 # Links
