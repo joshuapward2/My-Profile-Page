@@ -1,5 +1,4 @@
-/* Pages styling */
-
+/* Meta-styling, Pages styling, component styling done in individual directories  */
 
 .App {
   text-align: center;
@@ -50,21 +49,6 @@
 }
 
 
-.nav {
-  text-align: center;
-  list-style: none;
-
- 
- 
-
-}
-
-.cardImage {
-  max-width: 400px;
-  max-height: 400px;
-  margin: 0 auto;
-}
-
 .form-control {
   
   width: 800px;
@@ -86,14 +70,20 @@
 
 }
 
-.my-2Image {
-  height: 700px;
-}
 
 .textContent, body {
   color: white;
+  font-size: large;
  
 }
+
+.iconImage {
+  width: 100px;
+  height: 100px;
+  align-items: center;
+}
+
+/* Card styling */
 .card p {
   color:black;
   text-decoration: underline;
@@ -103,8 +93,12 @@
   text-align: center;
 }
 
-.iconImage {
-  width: 100px;
-  height: 100px;
-  align-items: center;
+.cardImage {
+  max-width: 400px;
+  max-height: 400px;
+  margin: 0 auto;
+}
+
+#aboutMeHeader {
+  text-decoration: underline;
 }

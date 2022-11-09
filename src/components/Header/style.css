@@ -1,15 +1,8 @@
 
-
-.headerDiv {
+.headerDiv  {
+    margin-top: 30px;
     color:black;
-}
-.headerDiv h1 {
-    margin-top: 50px;
-    font-family: fantasy;
+    font-family: 'Times New Roman', Times, serif;
+
 }
 
-/* .iconImage {
-    width: 100px;
-    height: 100px;
-    align-items: center;
-} */

@@ -65,7 +65,7 @@ function Project() {
   <h1>Project</h1>
   {projects.map(project => (
    
-  //  <div className="img-box">
+
    <div className="container">
     <div className="row justify-content-center">
         <div className="col-6">
