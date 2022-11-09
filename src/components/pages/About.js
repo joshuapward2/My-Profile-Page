@@ -5,7 +5,7 @@ export default function About() {
   return (
     <Parallax
         blur={{ min: -15, max: 15 }}
-         bgImage={require('../../assets/devbg.png')}
+         bgImage={require('../../assets/workspacebg.jpeg')}
         bgImageAlt="the dog"
         strength={-200}
     >
