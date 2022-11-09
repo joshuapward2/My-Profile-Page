@@ -1,5 +1,5 @@
 import React from 'react';
-import myImage from '../../assets/myImage.jpeg'
+// import myImage from '../../assets/myImage2.jpeg'
 import {Parallax} from 'react-parallax';
 
 export default function About() {
@@ -12,7 +12,7 @@ export default function About() {
         strength={-200}
     >
     <section className="body">
-    <h1 id="about">Who am I?  <img className="iconImage" src="./images/myImage2.jpeg" alt="me"/></h1>
+    <h1 id="about">Who am I?  <img className="iconImage" src={`${process.env.PUBLIC_URL}/images/headerLogo.jpeg`} alt="me"/></h1>
     {/* <img src={myImage} className="my-2Image" style={{ width: "100%" }} alt="cover" /> */}
     <div className="my-2">
       <h1 className='body'>I am... </h1>
