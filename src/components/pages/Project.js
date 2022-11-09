@@ -31,7 +31,7 @@ const projects = [{
  
   "id": "4",
   "title":"MySql Database employee tracker",
-  "Deployedlink":"",
+  "Deployedlink":"https://github.com/joshuapward2/employee-tracker",
   "GitHubLink":"https://github.com/joshuapward2/employee-tracker",
   "image":"jsbg.png"
   
@@ -39,7 +39,7 @@ const projects = [{
  
   "id": "5",
   "title":"MongoDB Social media API",
-  "Deployedlink":"",
+  "Deployedlink":"https://github.com/joshuapward2/social-network-api",
   "GitHubLink":"https://github.com/joshuapward2/social-network-api",
   "image":"jsbg.png"
   
@@ -47,7 +47,7 @@ const projects = [{
  
   "id": "6",
   "title":"Object relational mapping employee tracker",
-  "Deployedlink":"",
+  "Deployedlink":"https://github.com/joshuapward2/employee-tracker",
   "GitHubLink":"https://github.com/joshuapward2/employee-tracker",
   "image":"sequelizebg.png"
   
@@ -74,6 +74,8 @@ function Project() {
     
       <img className="cardImage" src={`${process.env.PUBLIC_URL}/images/${project.image}`} alt="project"/>
       <a href={project.Deployedlink}>Link to site</a> 
+    
+      
       </div>
        </div> 
         </div>
