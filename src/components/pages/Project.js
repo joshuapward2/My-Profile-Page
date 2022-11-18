@@ -33,7 +33,7 @@ const projects = [{
   "title":"MySql Database employee tracker",
   "Deployedlink":"https://github.com/joshuapward2/employee-tracker",
   "GitHubLink":"https://github.com/joshuapward2/employee-tracker",
-  "image":"jsbg.png"
+  "image":"mysqlbg.svg"
   
 },{
  
@@ -41,15 +41,15 @@ const projects = [{
   "title":"MongoDB Social media API",
   "Deployedlink":"https://github.com/joshuapward2/social-network-api",
   "GitHubLink":"https://github.com/joshuapward2/social-network-api",
-  "image":"jsbg.png"
+  "image":"mongodblogo.svg"
   
 },{
  
   "id": "6",
-  "title":"Object relational mapping employee tracker",
+  "title":"quick-track-version-2",
   "Deployedlink":"https://github.com/joshuapward2/employee-tracker",
-  "GitHubLink":"https://github.com/joshuapward2/employee-tracker",
-  "image":"sequelizebg.png"
+  "GitHubLink":"https://github.com/joshuapward2/quick-track-v2",
+  "image":"capstone.png"
   
 }
 
