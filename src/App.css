@@ -102,3 +102,17 @@
 #aboutMeHeader {
   text-decoration: underline;
 }
+
+
+
+.resumeContainer {
+  height: 100%;
+  width: 100%;
+
+}
+
+.resumecard {
+ 
+  height: 1000px;
+  width: 1000px;
+}
