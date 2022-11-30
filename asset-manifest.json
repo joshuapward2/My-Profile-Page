@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "/My-Profile-Page/static/css/main.3798bf3c.css",
-    "main.js": "/My-Profile-Page/static/js/main.bf37ef31.js",
+    "main.css": "/My-Profile-Page/static/css/main.8cc9adc5.css",
+    "main.js": "/My-Profile-Page/static/js/main.ba37e6ca.js",
     "static/js/787.128fc6e9.chunk.js": "/My-Profile-Page/static/js/787.128fc6e9.chunk.js",
+    "static/media/resumeScreenshot.png": "/My-Profile-Page/static/media/resumeScreenshot.4b65eaa9a8227da233bc.png",
     "static/media/bg-briefcase.jpeg": "/My-Profile-Page/static/media/bg-briefcase.f389d0bfbd701ed1d7eb.jpeg",
+    "static/media/myResume.pdf": "/My-Profile-Page/static/media/myResume.197fe4191f62dd663b27.pdf",
     "static/media/githubLogo.png": "/My-Profile-Page/static/media/githubLogo.f4c6225bb6f8006481e6.png",
     "static/media/linkedinLogo.svg": "/My-Profile-Page/static/media/linkedinLogo.552af841fdaca6bdb35162a49362b56e.svg",
     "index.html": "/My-Profile-Page/index.html",
-    "main.3798bf3c.css.map": "/My-Profile-Page/static/css/main.3798bf3c.css.map",
-    "main.bf37ef31.js.map": "/My-Profile-Page/static/js/main.bf37ef31.js.map",
+    "main.8cc9adc5.css.map": "/My-Profile-Page/static/css/main.8cc9adc5.css.map",
+    "main.ba37e6ca.js.map": "/My-Profile-Page/static/js/main.ba37e6ca.js.map",
     "787.128fc6e9.chunk.js.map": "/My-Profile-Page/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3798bf3c.css",
-    "static/js/main.bf37ef31.js"
+    "static/css/main.8cc9adc5.css",
+    "static/js/main.ba37e6ca.js"
   ]
 }
