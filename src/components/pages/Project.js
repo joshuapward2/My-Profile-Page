@@ -74,6 +74,7 @@ function Project() {
     
       <img className="cardImage" src={`${process.env.PUBLIC_URL}/images/${project.image}`} alt="project"/>
       <a href={project.Deployedlink}>Link to site</a> 
+      <a href={project.GitHubLink}>Link to Github Repository</a> 
     
       
       </div>
