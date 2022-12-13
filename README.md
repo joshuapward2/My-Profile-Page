@@ -1,4 +1,4 @@
-# Module 20, React
+# React
 
 Portfolio page
 
