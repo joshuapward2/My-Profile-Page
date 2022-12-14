@@ -2,11 +2,12 @@
 .headerDiv  {
    
     color:white;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: Arial, Helvetica, sans-serif;
     /* text-align: center; */
 
 }
 .headerText {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family:Arial, Helvetica, sans-serif;
+    color:#0275d8
 
 }
