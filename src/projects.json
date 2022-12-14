@@ -11,7 +11,7 @@
 {
    
     "id": "2",
-    "title":"Between the looking glass",
+    "title":"Between the Looking Glass",
     "Deployedlink":"https://dry-temple-13792.herokuapp.com/",
     "GitHubLink":"https://github.com/joshuapward2/between-the-looking-glass",
     "image":"lookingGlass.png"
@@ -20,7 +20,7 @@
 {
    
     "id": "3",
-    "title":"Javascript password generator",
+    "title":"Javascript Password Generator",
     "Deployedlink":"https://joshuapward2.github.io/password-generator-/",
     "GitHubLink":"https://github.com/joshuapward2/password-generator-",
     "image":"jsbg.png"
@@ -28,7 +28,7 @@
 },{
    
     "id": "4",
-    "title":"MySql Database employee tracker",
+    "title":"MySql Database Employee Tracker",
     "Deployedlink":"",
     "GitHubLink":"https://github.com/joshuapward2/employee-tracker",
     "image":"jsbg.png"
@@ -36,7 +36,7 @@
 },{
    
     "id": "5",
-    "title":"MongoDB Social media API",
+    "title":"MongoDB Social Media API(Back-End)",
     "Deployedlink":"",
     "GitHubLink":"https://github.com/joshuapward2/social-network-api",
     "image":"jsbg.png"
@@ -44,7 +44,7 @@
 },{
    
     "id": "6",
-    "title":"Object relational mapping employee tracker",
+    "title":"Object Relational Mapping Employee Tracker(Back-End)",
     "Deployedlink":"",
     "GitHubLink":"https://github.com/joshuapward2/employee-tracker",
     "image":"sequelizebg.png"

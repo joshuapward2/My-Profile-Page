@@ -10,9 +10,9 @@ export default function Resume() {
             <div className='row'>
                 < div className='col'>
                     <div className='resumeContainer'>
-
+                        <a href={JWResume}>Click to view full-size resume</a>
                         <div className='resume card'>
-                        <a href={JWResume}>Link to my resume</a>
+                        
                         <img src={RESUMEIMG} alt="my-resume"></img>
                        
                         </div>

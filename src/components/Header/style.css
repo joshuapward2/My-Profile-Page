@@ -1,8 +1,12 @@
 
 .headerDiv  {
-    margin-top: 30px;
-    color:black;
+   
+    color:white;
     font-family: 'Times New Roman', Times, serif;
+    /* text-align: center; */
 
 }
+.headerText {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
+}
