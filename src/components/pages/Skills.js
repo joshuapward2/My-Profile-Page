@@ -67,7 +67,7 @@ export default function About() {
                 <li> Consistent & Dependable</li>
                 <li>Adaptive & flexible Learner</li>
                 <li>Professional & Respectful</li>
-                <li>Leader &  A team player</li>
+                <li>Leader & team player</li>
 
               </ul>
             </div>
@@ -77,7 +77,7 @@ export default function About() {
 
         <div class="col-sm-12">
           <div class="card rounded-border border-primary">
-            <h5 class="card-header">Skills in the making</h5>
+            <h5 class="card-header">Currently Studying</h5>
             <div class="card-body">
               <ul className='card-text'>
                 <li> AWS</li>
