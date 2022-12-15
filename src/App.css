@@ -151,7 +151,7 @@ color: #000000;
 .card-text {
   display: block;
   justify-content: flex-end;
-  list-style-type: upper-roman;
+  list-style-type: square;
   color: black;
   
   
