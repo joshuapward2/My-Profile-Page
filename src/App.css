@@ -145,3 +145,30 @@ color: #000000;
 .parallax__layer.parallax__layer--4 {
   transform: none;
 }
+
+/* Skills component styling */
+
+.card-text {
+  display: block;
+  justify-content: flex-end;
+  list-style-type: upper-roman;
+  color: black;
+  
+  
+  
+}
+
+.card-header {
+  color:black;
+  text-decoration: underline;
+  padding: 0;
+  margin: 0;
+  
+}
+
+.card {
+  background-color: white;
+  padding: 0;
+  margin: 0;
+  border: 4px, blue;
+}
