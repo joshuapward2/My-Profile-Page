@@ -61,13 +61,14 @@ export default function About() {
             <div class="card-body">
               <ul className='card-text'>
                 <li>Reading documentation</li>
-                <li>Comfortable & proficient communicator</li>
-                <li>Innovative analytical thinker</li>
+                <li>Confident & Professional communicator</li>
+                <li>Innovative</li>
                 <li>Problem solving and utilizing resources</li>
-                <li> Consistent & Dependable</li>
+                <li>Dependable</li>
                 <li>Adaptive & flexible Learner</li>
-                <li>Professional & Respectful</li>
-                <li>Leader & team player</li>
+                <li>Organized</li>
+                <li>Leader & Team Player</li>
+                <li>Analytical thinker</li>
 
               </ul>
             </div>
@@ -75,7 +76,7 @@ export default function About() {
         </div>
 
 
-        <div class="col-sm-12">
+        <div class="col-sm-6">
           <div class="card rounded-border border-primary">
             <h5 class="card-header">Currently Studying</h5>
             <div class="card-body">
@@ -83,7 +84,22 @@ export default function About() {
                 <li> AWS</li>
                 <li> Java</li>
                 <li>Python</li>
-                <li>Consistent progression of data structures and algorithms</li>
+                <li>Data structures and algorithms</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-sm-6">
+          <div class="card rounded-border border-primary">
+            <h5 class="card-header">Non-technical proficienties</h5>
+            <div class="card-body">
+              <ul className='card-text'>
+                <li>Finance/stock-trading</li>
+                <li>Exercise Science & anatomy</li>
+                <li>Outdoor Survival skills</li>
+                <li>Logistics</li>
+                
               </ul>
             </div>
           </div>
