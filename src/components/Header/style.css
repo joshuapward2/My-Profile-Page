@@ -6,8 +6,15 @@
     /* text-align: center; */
 
 }
-.headerText {
+.headerText, .headerText2 {
     font-family:Arial, Helvetica, sans-serif;
-    color:#0275d8
+    color:#0275d8;
+    display: inline-block;
+}
+.headerText2 {
+    float:right;
+}
 
+.line {
+    color: #0275d8;
 }

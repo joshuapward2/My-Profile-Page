@@ -173,3 +173,18 @@ color: #000000;
   margin: 0;
   border: 4px, blue;
 }
+
+/* Home component styling */
+
+.textIntro {
+  font-weight: bold;
+  font-size: larger;
+}
+
+.home {
+  background-color: #000000;
+  display: flex;
+  justify-content: center;
+  padding: 85px;
+  
+}
