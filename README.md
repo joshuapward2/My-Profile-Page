@@ -4,7 +4,7 @@ Portfolio page
 
 # Description
 
-Build, design and deploy a react app.  The theme is a page to represent yourself and your portfolio.  Must have a home, navigation, header,and contact pages/components
+The is my portfolio page. Built with react. I decided to keep it simple, functional, clean and legible.
 
 # technologies 
 Javascript, 
