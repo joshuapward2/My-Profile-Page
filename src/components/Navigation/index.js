@@ -20,18 +20,20 @@ function Navigation({ currentPage, handlePageChange }) {
       </li>
       <li className="nav-item">
         <a
-          href="#about"
-          onClick={() => handlePageChange('About')}
+          href="#Skills"
+          onClick={() => handlePageChange('Skills')}
+
           // Check to see if the currentPage is `About`, and if so we use the active link class from bootstrap. Otherwise, we set it to a normal nav-link
-          className={currentPage === 'About' ? 'nav-link active' : 'nav-link'}
+          className={currentPage === 'Skills' ? 'nav-link active' : 'nav-link'}
         >
-          About
+          Skills
         </a>
       </li>
       <li className="nav-item">
         <a
           href="#project"
           onClick={() => handlePageChange('Project')}
+          
           // Check to see if the currentPage is `Project`, and if so we use the active link class from bootstrap. Otherwise, we set it to a normal nav-link
           className={currentPage === 'Project' ? 'nav-link active' : 'nav-link'}
         >

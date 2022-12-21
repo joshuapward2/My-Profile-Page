@@ -5,6 +5,7 @@ const projects = [{
    
   "id": "1",
   "title":"A Day In The Smoky Mountains",
+  "description":"A Day In The Smoky Mountains is a simple collaborative front-end project developed from scratch in a weeks time. It entails up-to-date conditions and amentities of The Great Smoky Mountains National Park.",
   "Deployedlink":"https://zombiewok28.github.io/A-Day-In-The-Smoky-Mountains/",
   "GitHubLink":"https://github.com/joshuapward2/A-Day-In-The-Smoky-Mountains",
   "image":"zombie.png"
@@ -13,7 +14,8 @@ const projects = [{
 {
  
   "id": "2",
-  "title":"Between the looking glass",
+  "title":"Between the Looking Glass",
+  "description":"Between the Looking Glass is a collective full-stack application developed in a 10-day sprint to create a community for junior developers transitioning into the workforce.",
   "Deployedlink":"https://dry-temple-13792.herokuapp.com/",
   "GitHubLink":"https://github.com/joshuapward2/between-the-looking-glass",
   "image":"lookingGlass.png"
@@ -22,7 +24,8 @@ const projects = [{
 {
  
   "id": "3",
-  "title":"Javascript password generator",
+  "title":"Javascript Password Generator",
+  "description":"This app is exactly what it sounds like, a simple but effective random password generator. Built with vanilla javascript.",
   "Deployedlink":"https://joshuapward2.github.io/password-generator-/",
   "GitHubLink":"https://github.com/joshuapward2/password-generator-",
   "image":"jsbg.png"
@@ -30,7 +33,8 @@ const projects = [{
 },{
  
   "id": "4",
-  "title":"MySql Database employee tracker",
+  "title":"MySql Database Employee Tracker",
+  "description":"Where this app lacks in vivid frontend polish it makes up for in efficient backend functionality. Allowing users to keep track of employers utilizing Mysql's strict structure(back-end/repository-only)",
   "Deployedlink":"https://github.com/joshuapward2/employee-tracker",
   "GitHubLink":"https://github.com/joshuapward2/employee-tracker",
   "image":"mysqlbg.svg"
@@ -39,6 +43,7 @@ const projects = [{
  
   "id": "5",
   "title":"MongoDB Social media API",
+  "description":"Considering the popularity of social media platforms i wanted to show that i am capable of writing and executing queryies and mutations within one. In this scenario i utilized MongoDB to do so.(back-end/repository-only)",
   "Deployedlink":"https://github.com/joshuapward2/social-network-api",
   "GitHubLink":"https://github.com/joshuapward2/social-network-api",
   "image":"mongodblogo.svg"
@@ -46,7 +51,8 @@ const projects = [{
 },{
  
   "id": "6",
-  "title":"quick-track-version-2",
+  "title":"Quick-Track Version 2",
+  "description":"Quick track is another full-stack application built in a 10 day sprint that tracks users' caloric intake & provides dietary tools. Allowing users to create an account and login. Created with React on the frontend and graphQl on top of a mongoDB database in the backend.",
   "Deployedlink":"https://github.com/joshuapward2/employee-tracker",
   "GitHubLink":"https://github.com/joshuapward2/quick-track-v2",
   "image":"capstone.png"
@@ -62,15 +68,16 @@ const projects = [{
 function Project() {
     return (
   <div>
-  <h1>Project</h1>
+  <h1 className="projectsHeader">Projects</h1>
   {projects.map(project => (
    
 
    <div className="container">
     <div className="row justify-content-center">
-        <div className="col-6">
-            <div className="card">
-      <p>{project.title}</p>
+        <div className="col-sm-6">
+            <div className="card border-primary">
+      <h3 className="projectTitle">{project.title}</h3>
+      <p className="projectDescription">{project.description}</p>
     
       <img className="cardImage" src={`${process.env.PUBLIC_URL}/images/${project.image}`} alt="project"/>
       <a href={project.Deployedlink}>Link to site</a> 

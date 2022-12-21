@@ -1,7 +1,7 @@
 import React from 'react'
 
 
-import JWResume from '../../assets/myResume.pdf'
+import JWResume from '../../assets/updatedResume.pdf'
 import RESUMEIMG from '../../assets/resumeScreenshot.png'
 
 export default function Resume() {
@@ -10,9 +10,9 @@ export default function Resume() {
             <div className='row'>
                 < div className='col'>
                     <div className='resumeContainer'>
-
+                        <a href={JWResume}>Click to view full-size resume</a>
                         <div className='resume card'>
-                        <a href={JWResume}>Link to my resume</a>
+                        
                         <img src={RESUMEIMG} alt="my-resume"></img>
                        
                         </div>

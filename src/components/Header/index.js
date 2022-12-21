@@ -6,8 +6,12 @@ function Header() {
 
     return (
   <div className="headerDiv">
-  <h1 className="headerText">Joshua Ward</h1>
-  <h6 className="headerText">Joshuapward2@gmail.com</h6>
+  <h1 className="headerText">Joshua Ward <img className="iconImage" src={`${process.env.PUBLIC_URL}/images/gears.png`} alt="icon"/></h1>
+
+
+
+
+
   </div>
   
     )
