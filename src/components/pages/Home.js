@@ -4,6 +4,7 @@ import React from 'react';
 export default function Home() {
   return (
 
+//Saving parallax template for if i decide to add an image
 
     // <Parallax
     //   blur={{ min: -15, max: 15 }}
@@ -16,6 +17,8 @@ export default function Home() {
         <div className="my-2">
           <div class="col-sm-12">
             <div class="card home rounded-border">
+
+            {/* About me */}
               
                 <h3>If you're curious to hear my story or just to see my resume and credentials, you're in the right spot. Please use the tabs above accordingly...</h3>
                 <br></br>
