@@ -13,7 +13,7 @@ export default function About() {
       <h1 className='skillsHeader'>Skills</h1>
       <div class="row">
         <div class="col-sm-4">
-          <div class="card rounded-border border-primary">
+          <div class="card rounded-border border-primary mb-5">
             <h5 class="card-header">Technologies & Languages</h5>
             <div class="card-body">
               <ul className='card-text'>
@@ -34,7 +34,7 @@ export default function About() {
 
 
         <div class="col-sm-4">
-          <div class="card rounded-border border-primary">
+          <div class="card rounded-border border-primary mb-5">
             <h5 class="card-header">Paradigms, Concept's & Methodology's </h5>
             <div class="card-body">
               <ul className='card-text'>
@@ -56,7 +56,7 @@ export default function About() {
 
 
         <div class="col-sm-4">
-          <div class="card rounded-border border-primary">
+          <div class="card rounded-border border-primary mb-5">
             <h5 class="card-header">Soft Skills</h5>
             <div class="card-body">
               <ul className='card-text'>
@@ -74,7 +74,7 @@ export default function About() {
             </div>
           </div>
         </div>
-
+       
 
         <div class="col-sm-6">
           <div class="card rounded-border border-primary">
