@@ -14,23 +14,24 @@ const projects = [{
 {
  
   "id": "2",
-  "title":"Between the Looking Glass",
-  "description":"Between the Looking Glass is a collective full-stack application developed in a 10-day sprint to create a community for junior developers transitioning into the workforce.",
-  "Deployedlink":"https://dry-temple-13792.herokuapp.com/",
-  "GitHubLink":"https://github.com/joshuapward2/between-the-looking-glass",
-  "image":"lookingGlass.png"
-  
-},
-{
- 
-  "id": "3",
   "title":"Javascript Password Generator",
   "description":"This app is exactly what it sounds like, a simple but effective random password generator. Built with vanilla javascript.",
   "Deployedlink":"https://joshuapward2.github.io/password-generator-/",
   "GitHubLink":"https://github.com/joshuapward2/password-generator-",
   "image":"jsbg.png"
   
-},{
+},
+{
+ 
+  "id": "3",
+  "title":"Between the Looking Glass",
+  "description":"Between the Looking Glass is a collective full-stack application developed in a 10-day sprint to create a community for junior developers transitioning into the workforce.",
+  "Deployedlink":"https://github.com/joshuapward2/between-the-looking-glass",
+  "GitHubLink":"https://github.com/joshuapward2/between-the-looking-glass",
+  "image":"lookingGlass.png"
+  
+},
+{
  
   "id": "4",
   "title":"MySql Database Employee Tracker",
@@ -53,7 +54,7 @@ const projects = [{
   "id": "6",
   "title":"Quick-Track Version 2",
   "description":"Quick track is another full-stack application built in a 10 day sprint that tracks users' caloric intake & provides dietary tools. Allowing users to create an account and login. Created with React on the frontend and graphQl on top of a mongoDB database in the backend.",
-  "Deployedlink":"https://github.com/joshuapward2/employee-tracker",
+  "Deployedlink":"https://github.com/joshuapward2/quick-track-v2",
   "GitHubLink":"https://github.com/joshuapward2/quick-track-v2",
   "image":"capstone.png"
   
@@ -69,6 +70,7 @@ function Project() {
     return (
   <div>
   <h1 className="projectsHeader">Projects</h1>
+  <h5 className="projectsExplanation">Below is a list of a few of the projects i have built. I wanted to give a broad overview of some of the capabilities i bring to the table. So, each projects scope will vary as well as the complexity of the code. PLEASE NOTE that some of these projects are not deployed and are repositories only. All of them are working applications and can either be deployed locally or they're strictly back-end projects. Please visit the relevant projects Readme for more details. Each readme can be found by clicking "Link to Github Repository". Thanks again for visiting my page. If you have any questions please don't hesitate to contact me via email or Linkedin </h5>
   {projects.map(project => (
    
 

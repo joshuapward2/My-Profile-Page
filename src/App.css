@@ -21,7 +21,6 @@
 }
 
 .App-header {
-  /* background-color: #282c34; */
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -89,6 +88,7 @@
 }
 
 /* Card styling for project and resume components */
+
 .card .projectTitle {
   color:black;
   text-decoration: underline;
@@ -187,4 +187,8 @@ color: #000000;
   justify-content: center;
   padding: 85px;
   
+}
+
+.projectsExplanation {
+  padding: 20px;
 }
