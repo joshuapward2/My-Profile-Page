@@ -70,7 +70,7 @@ function Project() {
     return (
   <div>
   <h1 className="projectsHeader">Projects</h1>
-  <h5 className="projectsExplanation">Below is a list of a few of the projects i have built. I wanted to give a broad overview of some of the capabilities i bring to the table. So, each projects scope will vary as well as the complexity of the code. PLEASE NOTE that some of these projects are not deployed and are repositories only. All of them are working applications and can either be deployed locally or they're strictly back-end projects. Please visit the relevant projects Readme for more details. Each readme can be found by clicking "Link to Github Repository". Thanks again for visiting my page. If you have any questions please don't hesitate to contact me via email or Linkedin </h5>
+  <h5 className="projectsExplanation">Below you'll find a list of a few of the projects I have built. I wanted to give a broad overview of some of the capabilities I bring to the table. So, each projects scope will vary as well as the complexity of the code. PLEASE NOTE that some of these projects are not deployed and are repositories only. All of them are working applications and can either be deployed locally or they're strictly back-end project's. Please visit the relevant projects Readme for more details. Each Readme can be found by clicking "Link to Github Repository". Thanks again for visiting my page. If you have any questions please don't hesitate to contact me via email or Linkedin </h5>
   {projects.map(project => (
    
 
