@@ -76,7 +76,7 @@ function Project() {
 
    <div className="container">
     <div className="row justify-content-center">
-        <div className="col-sm-6">
+        <div className="col-sm-8">
             <div className="card border-primary">
       <h3 className="projectTitle">{project.title}</h3>
       <p className="projectDescription">{project.description}</p>

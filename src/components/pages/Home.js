@@ -13,19 +13,18 @@ export default function Home() {
     //   strength={-200}
     // >
       <section className="body">
-        <h1 className="skillsHeader">About me...</h1>
+        <h1 className="skillsHeader">About me</h1>
         <div className="my-2">
           <div class="col-sm-12">
             <div class="card home rounded-border">
 
-            {/* About me */}
+         
               
-                <h3>If you're curious to hear my story or just to see my resume and credentials, you're in the right spot. Please use the tabs above accordingly...</h3>
-                <br></br>
-                <span className='textIntro'> Hi, I'm Josh! </span>   <p className='textContent'>I'm a full stack software developer and U.S military veteran. I've spent a large portion of my professional career working in management, hospitality, coaching/training, customer service and sales. From national corporations to small-town staples. From start-ups to established brands. Throughout my career, I've been fortunate to acquire a comprehensive understanding of the fundamentals of business and economics as well as competency in interpreting and analyzing asset charts and graphs. I bring a realistic, multi-faceted, logical and intuitive voice to any team I join. Additionally, I love technology! I'm excited for the technological innovation that awaits ahead. I just want to simply play my part in the process. 
+               
+                  <p className='textContent'>I'm a full stack software developer and U.S military veteran. I spent my professional career prior to transitioning to the technology sector working in management, military, hospitality, athletic coaching & training, customer relations, finance and sales. From national corporations to small-town staples. From start-ups to established brands. Throughout my career, I've been fortunate to acquire a comprehensive understanding and proficiency using several point of sale software systems, in operations and debugging. Comfortability in most popular operating systems and ive logged numerous hours utilizing multiple software platforms to carry out my daily job responsibilities. I now want to be someone who is responsible for building them. Outside of technology i've gained a sturdy foundations of the fundamentals of business management and economics, Logistics, Food & Beverage and more. I bring a realistic, multi-faceted, logical and intuitive voice to any team I join. Additionally, I love technology! I'm excited for the technological innovation that awaits ahead. I just want to simply play my part in the process. 
                  <br></br>
                  <br></br>
-                 <h3>Brief timeline with a few accompliments along the way...</h3>
+                 <h3>Brief timeline...</h3>
                  I graduated from high school in 2007 as an honor roll student and a captain on the men's varsity basketball team. From there I was given the opportunity to play college basketball at a small Christian school named Trinity college. Where we broke the school record for wins in my freshman season. In 2010 I decided to temporarily leave school and enlist in the United States Marine Corps Reserve. I graduated as a squad leader and a finalist in contention for  the honor graduate. An accolade that's only given to one Marine per graduating class. While still enlisted I decided I wanted to return to school. So I did, and in 2012 I graduated from a kinesiology & exercise science program. It was my honor to be elected class speaker.  From here, I continued my journey into the workforce, holding multiple positions across several industries. In which I was fortunate to gain valuable experience. In 2020, I decided I wanted to make a career change. I wanted to find a career that I was truly passionate about. An industry with opportunity that's consumed with driven, intelligent and passionate minds all working together for a common goal. The decision became clear and without hesitation I began studying. In 2022 I earned a certificate in Full-stack Software Development from the University of Central Florida. I'm actively working to add several more certificates and certifications to my tech stack.
                  <br></br>
                  <br></br>

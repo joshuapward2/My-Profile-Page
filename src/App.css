@@ -90,13 +90,13 @@
 /* Card styling for project and resume components */
 
 .card .projectTitle {
-  color:black;
+  color:white;
   text-decoration: underline;
   font-family: Arial, Helvetica, sans-serif;
   font-weight: bold;
 }
 .projectDescription {
-color: #000000;
+color:white;
 }
 
 .card{
@@ -151,8 +151,8 @@ color: #000000;
 .card-text {
   display: block;
   justify-content: flex-end;
-  list-style-type: square;
-  color: black;
+  list-style-type: none;
+  color: white;
 
   
   
@@ -160,7 +160,7 @@ color: #000000;
 }
 
 .card-header {
-  color:black;
+  color:white;
   text-decoration: underline;
   padding: 0;
   margin: 0;
@@ -168,7 +168,7 @@ color: #000000;
 }
 
 .card {
-  background-color: white;
+  background-color: black;
   padding: 0;
   margin: 0;
   border: 4px, blue;
@@ -192,3 +192,4 @@ color: #000000;
 .projectsExplanation {
   padding: 20px;
 }
+

@@ -9,22 +9,23 @@ export default function About() {
     //   // // bgImageAlt="the dog"
     //   // strength={-200}
     // >
-    <section className="">
+    <section className="skillsCards">
       <h1 className='skillsHeader'>Skills</h1>
       <div class="row">
-        <div class="col-sm-4">
-          <div class="card rounded-border border-primary mb-5">
-            <h5 class="card-header">Technologies & Languages</h5>
+        <div class="col-sm-12">
+          <div class="card  mb-5">
+            <h3 class="card-header"> Languages, frameworks,libraries and databases</h3>
             <div class="card-body">
               <ul className='card-text'>
-                <li> HTML, CSS, JavaScript </li>
-                <li>MERN Stack(React,Express.js, Node.js, MongoDB)</li>
+                <li> HTML, CSS </li>
+                <li>JavaScript & Python</li>
+                <li>MERN Stack</li>
                 <li>MySQL & Sequelize</li>
                 <li>MongoDB & Mongoose</li>
                 <li>GraphQL & IndexDB </li>
                 <li>Bootstrap & Bulma</li>
                 <li>Jquery</li>
-                <li>Google & React Developer Tools</li>
+                <li>Flask</li>
 
 
               </ul>
@@ -33,20 +34,20 @@ export default function About() {
         </div>
 
 
-        <div class="col-sm-4">
-          <div class="card rounded-border border-primary mb-5">
-            <h5 class="card-header">Paradigms, Concept's & Methodology's </h5>
+        <div class="col-sm-12">
+          <div class="card mb-5">
+            <h3 class="card-header">Technologies & other </h3>
             <div class="card-body">
               <ul className='card-text'>
-                <li>Object oriented programming</li>
-                <li>Functional programming</li>
                 <li>Object relational mapping</li>
                 <li>React State management</li>
                 <li>Git version control</li>
                 <li>Github</li>
                 <li>Agile development methodology</li>
-                <li>Progressive web applications</li>
-                <li>Incorporating NPM's</li>
+                <li>Progressive web applications and webpack</li>
+                <li>Google & React Developer Tools</li>
+                <li>NPM & PIP</li>
+                
 
               </ul>
             </div>
@@ -55,50 +56,33 @@ export default function About() {
 
 
 
-        <div class="col-sm-4">
-          <div class="card rounded-border border-primary mb-5">
-            <h5 class="card-header">Soft Skills</h5>
+        <div class="col-sm-6">
+          <div class="card mb-5">
+            <h3 class="card-header">Certifications</h3>
             <div class="card-body">
               <ul className='card-text'>
-                <li>Reading documentation</li>
-                <li>Confident & Professional communicator</li>
-                <li>Innovative</li>
-                <li>Problem solving and utilizing resources</li>
-                <li>Dependable</li>
-                <li>Adaptive & flexible Learner</li>
-                <li>Organized</li>
-                <li>Leader & Team Player</li>
-                <li>Analytical thinker</li>
-
+                <li>AWS Cloud Practioner</li>
+                <li>Certified Scrum Master</li>
+                <li>Certified Full Stack Developer</li>
+                
               </ul>
             </div>
           </div>
         </div>
        
 
-        <div class="col-sm-6">
-          <div class="card rounded-border border-primary">
-            <h5 class="card-header">Currently Studying</h5>
-            <div class="card-body">
-              <ul className='card-text'>
-                <li> AWS</li>
-                <li> Java</li>
-                <li>Python</li>
-                <li>Data structures and algorithms</li>
-              </ul>
-            </div>
-          </div>
-        </div>
+       
 
         <div class="col-sm-6">
-          <div class="card rounded-border border-primary">
-            <h5 class="card-header">Non-technical proficienties</h5>
+          <div class="card mb-5">
+            <h3 class="card-header">Non-technical experience</h3>
             <div class="card-body">
               <ul className='card-text'>
-                <li>Finance/stock-trading</li>
+                <li>Managment</li>
+                <li>Finance</li>
                 <li>Exercise Science & anatomy</li>
-                <li>Outdoor Survival skills</li>
                 <li>Logistics</li>
+                <li>Hospitality</li>
                 
               </ul>
             </div>
