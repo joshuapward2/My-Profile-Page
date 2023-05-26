@@ -41,12 +41,14 @@ export default function About() {
               <ul className='card-text'>
                 <li>Object relational mapping</li>
                 <li>React State management</li>
-                <li>Git version control</li>
+                <li>Git, Command prompt, linux and powershell</li>
                 <li>Github</li>
                 <li>Agile development methodology</li>
                 <li>Progressive web applications and webpack</li>
                 <li>Google & React Developer Tools</li>
                 <li>NPM & PIP</li>
+                <li>Networks and security of them</li>
+                <li>Troubleshooting Hardware and software Networks</li>
                 
 
               </ul>
