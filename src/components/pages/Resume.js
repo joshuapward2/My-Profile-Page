@@ -1,7 +1,7 @@
 import React from 'react'
 
 
-import JWResume from '../../assets/updatedResume2.pdf'
+import JWResume from '../../assets/JWRW.pdf'
 import RESUMEIMG from '../../assets/resumeScreenshot.png'
 
 export default function Resume() {
